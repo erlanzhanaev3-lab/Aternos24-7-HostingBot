@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xaggivagi2562.aternos.me:59247",
-    "port": 42445,
+    "ip": "xaggivagi2562.aternos.me",
+    "port": 59247,
     "version": "",
     "try-creative": false
   },
