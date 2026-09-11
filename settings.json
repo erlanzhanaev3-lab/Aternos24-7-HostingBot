@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":"xaggpvp.play.hosting",
-    "port": ,
+    "ip":"xaggpvp.play.hosting"
     "version": "",
     "try-creative": false
   },
